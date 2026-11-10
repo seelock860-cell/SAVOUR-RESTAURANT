@@ -1,0 +1,6 @@
+{
+  "name": "Savoure Restaurant & Lounge",
+  "description": "Luxury fine dining restaurant demonstration website with digital menu, online ordering, table reservations, and admin management, designed and developed by LOCKVEX ⚡.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
